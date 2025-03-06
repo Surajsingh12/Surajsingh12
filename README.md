@@ -6,7 +6,7 @@
 - 👀 I’m interested in Android development, UI/UX design, and building scalable mobile apps.  
 - 🌱 I’m currently learning Jetpack Compose and improving my skills in Flutter.  
 - 💞️ I’m looking to collaborate on open-source Android projects.  
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/surajsingh) | [Email](mailto:your_email@example.com)  
+- 📫 How to reach me: [LinkedIn]([https://linkedin.com/in/surajsingh](https://www.linkedin.com/in/suraj-singh-3a8b79231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) | [Email](Surajsingh08354@gmail.com)  
 
 ### 🚀 **Tech Stack**  
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
